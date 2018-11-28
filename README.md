@@ -1,2 +1,2 @@
 # SAAD
-Plagiarism Check
+Plagiarism Checker for System Analysis and Design
